@@ -1795,18 +1795,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1934ef5f-87f8-4973-95a9-9735841993fe")
 		(property "Reference" "R1"
-			(at 128.27 44.45 90)
+			(at 128.27 48.768 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 128.27 46.99 90)
+		(property "Value" "4.7K"
+			(at 128.27 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1943,10 +1942,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "91d78329-9239-4962-860e-ecc9fbc6001d")
 		(property "Reference" "C3"
-			(at 142.24 60.9599 0)
+			(at 138.938 59.944 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1954,8 +1952,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 142.24 63.4999 0)
+		(property "Value" "10uF"
+			(at 139.446 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2013,18 +2011,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9e54f2df-7fc5-4202-b408-197a40a5ac17")
 		(property "Reference" "C2"
-			(at 105.41 82.55 90)
+			(at 102.362 88.392 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C"
-			(at 105.41 85.09 90)
+		(property "Value" "2.2uF"
+			(at 109.474 88.646 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2081,10 +2078,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cb889f44-9279-49b2-87dd-acac2d25537e")
 		(property "Reference" "D1"
-			(at 121.92 58.1024 90)
+			(at 120.904 57.912 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2093,7 +2089,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 121.92 60.6424 90)
+			(at 120.904 60.706 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2277,10 +2273,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d906af1d-4c2d-42b6-8347-36fc77aa8ce8")
 		(property "Reference" "C1"
-			(at 154.94 60.9599 0)
+			(at 151.892 59.944 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2288,8 +2283,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 154.94 63.4999 0)
+		(property "Value" "0.1uF"
+			(at 152.146 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
