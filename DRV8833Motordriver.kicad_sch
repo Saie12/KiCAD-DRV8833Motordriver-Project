@@ -1173,6 +1173,154 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 151.13 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05e2f7c6-88ee-45a9-9a55-81e4d361b728")
+	)
+	(junction
+		(at 138.43 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f4ee108-0d31-4eb2-9ad3-5e118a7149d1")
+	)
+	(junction
+		(at 138.43 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b1f7461d-1597-4045-8231-e845e03404db")
+	)
+	(wire
+		(pts
+			(xy 119.38 50.8) (xy 124.46 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04073a93-4655-408a-8639-519535f7eb68")
+	)
+	(wire
+		(pts
+			(xy 119.38 64.77) (xy 119.38 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f6204ae-857c-4a86-b194-08c0192ac63b")
+	)
+	(wire
+		(pts
+			(xy 138.43 69.85) (xy 151.13 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14fc5f80-4c52-44d9-a585-cf4a1fcf67fc")
+	)
+	(wire
+		(pts
+			(xy 151.13 69.85) (xy 151.13 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dd1d118-e6e7-4a4f-9de4-10b8fd0cdb85")
+	)
+	(wire
+		(pts
+			(xy 138.43 66.04) (xy 138.43 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70b2f192-67e7-4eb0-9b68-1a68ef7f7ed0")
+	)
+	(wire
+		(pts
+			(xy 119.38 69.85) (xy 138.43 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7150e79f-eadc-4ca3-b539-2177eacce95d")
+	)
+	(wire
+		(pts
+			(xy 138.43 50.8) (xy 132.08 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89f14be8-f52a-47c7-aa67-15ff3e26a02c")
+	)
+	(wire
+		(pts
+			(xy 151.13 58.42) (xy 151.13 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d938fe3-a1ec-464c-a55e-89d03330657f")
+	)
+	(wire
+		(pts
+			(xy 151.13 66.04) (xy 151.13 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "becbd7e5-7ac8-4410-9d33-7187e054b812")
+	)
+	(wire
+		(pts
+			(xy 138.43 50.8) (xy 138.43 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8adb864-335d-4385-abfa-1238c3824491")
+	)
+	(wire
+		(pts
+			(xy 109.22 90.17) (xy 128.27 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd4d69bc-c70a-4da1-8899-ee0ab570f5f7")
+	)
+	(wire
+		(pts
+			(xy 119.38 57.15) (xy 119.38 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e539e1f4-7c81-4ec1-ba3c-d5e422cb2944")
+	)
+	(wire
+		(pts
+			(xy 151.13 50.8) (xy 138.43 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff0a4d14-3de5-4a1f-8f91-f3b228ffc684")
+	)
 	(symbol
 		(lib_id "Device:R")
 		(at 128.27 50.8 90)
