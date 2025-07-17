@@ -95,7 +95,7 @@
 	(footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-20_AVX-F"
 		(layer "F.Cu")
 		(uuid "3ddc380c-0046-426c-9f6d-6a857b76cfa1")
-		(at 150.7575 61.11)
+		(at 148.5 112.75)
 		(descr "Tantalum Capacitor SMD AVX-F (6032-20 Metric), IPC-7352 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor tantalum")
 		(property "Reference" "C3"
@@ -314,7 +314,7 @@
 	(footprint "LED_SMD:LED_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "5d62403c-c369-4efb-b3ea-638befe5c494")
-		(at 153.1275 65.005)
+		(at 142.5 100.25)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D1"
@@ -548,7 +548,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "6086298a-c78c-4b11-b8b6-05f719e0cfbe")
-		(at 144.1375 54.39)
+		(at 162.5 100.25)
 		(descr "Through hole straight pin header, 1x06, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x06 2.54mm single row")
 		(property "Reference" "J2"
@@ -845,7 +845,7 @@
 	(footprint "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias"
 		(layer "F.Cu")
 		(uuid "7329bcab-5234-4f7c-86f0-b6c3e435b971")
-		(at 151.2325 55.415)
+		(at 148.5 106.25)
 		(descr "HTSSOP, 16 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "HTSSOP SO")
 		(property "Reference" "U1"
@@ -1422,7 +1422,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "8d3b1312-dfcb-40a8-9508-932bc26ca3c7")
-		(at 139.5475 54.39)
+		(at 137.25 100.25)
 		(descr "Through hole straight pin header, 1x06, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x06 2.54mm single row")
 		(property "Reference" "J1"
@@ -1719,7 +1719,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "8eaaed05-6693-4655-b29f-e1d98340f91e")
-		(at 153.0875 68)
+		(at 148.25 100)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
@@ -1918,7 +1918,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "9560360c-0f44-41ad-ab15-76c8c3b764b7")
-		(at 148.6575 64.99)
+		(at 154 99.75)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
@@ -2117,11 +2117,11 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "b4f88f82-bcae-49cd-8d46-28a50674d002")
-		(at 148.6575 68)
+		(at 157.25 105.75 -90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 -1.68 0)
+			(at 0 -1.68 90)
 			(layer "F.SilkS")
 			(uuid "0bcde935-3d65-4c36-8933-eae0a29a8562")
 			(effects
@@ -2132,7 +2132,7 @@
 			)
 		)
 		(property "Value" "2.2uF"
-			(at 0 1.68 0)
+			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "692539e5-d26e-48f4-aa3c-4c47b8bd2e44")
 			(effects
@@ -2143,7 +2143,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "553582ea-a781-46d8-b7e0-66ca20c7f10e")
@@ -2155,7 +2155,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "326ea453-9041-451a-ae31-33dbb8d71abb")
@@ -2172,16 +2172,6 @@
 		(sheetfile "DRV8833Motordriver.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -0.261252 -0.735)
-			(end 0.261252 -0.735)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "580702d5-eed6-4ff6-8015-593b48341179")
-		)
-		(fp_line
 			(start -0.261252 0.735)
 			(end 0.261252 0.735)
 			(stroke
@@ -2192,14 +2182,14 @@
 			(uuid "d1adafcf-4348-478c-9c24-ed5246afd6b5")
 		)
 		(fp_line
-			(start -1.7 -0.98)
-			(end 1.7 -0.98)
+			(start -0.261252 -0.735)
+			(end 0.261252 -0.735)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "4fd9f5ee-1c09-4fa5-9914-a938a345dde6")
+			(layer "F.SilkS")
+			(uuid "580702d5-eed6-4ff6-8015-593b48341179")
 		)
 		(fp_line
 			(start -1.7 0.98)
@@ -2212,16 +2202,6 @@
 			(uuid "95d3e0d5-30d9-41dc-998b-0a483b772dab")
 		)
 		(fp_line
-			(start 1.7 -0.98)
-			(end 1.7 0.98)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "cfaf9891-f12b-432c-bb54-3842b2d6afd4")
-		)
-		(fp_line
 			(start 1.7 0.98)
 			(end -1.7 0.98)
 			(stroke
@@ -2232,14 +2212,24 @@
 			(uuid "ff71dbd7-f165-46c3-a3f6-7ffe5bdb382e")
 		)
 		(fp_line
-			(start -1 -0.625)
-			(end 1 -0.625)
+			(start -1.7 -0.98)
+			(end 1.7 -0.98)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "a24cd1d9-b967-432e-8f15-ebd44d477baf")
+			(layer "F.CrtYd")
+			(uuid "4fd9f5ee-1c09-4fa5-9914-a938a345dde6")
+		)
+		(fp_line
+			(start 1.7 -0.98)
+			(end 1.7 0.98)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "cfaf9891-f12b-432c-bb54-3842b2d6afd4")
 		)
 		(fp_line
 			(start -1 0.625)
@@ -2252,16 +2242,6 @@
 			(uuid "dde633bb-e24d-425b-8cba-27f4fcedb45b")
 		)
 		(fp_line
-			(start 1 -0.625)
-			(end 1 0.625)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "91d18694-7137-48bd-bdbc-ae5ee29125ac")
-		)
-		(fp_line
 			(start 1 0.625)
 			(end -1 0.625)
 			(stroke
@@ -2271,8 +2251,28 @@
 			(layer "F.Fab")
 			(uuid "3e760710-b77e-4f19-b447-fcef8e085d78")
 		)
+		(fp_line
+			(start -1 -0.625)
+			(end 1 -0.625)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a24cd1d9-b967-432e-8f15-ebd44d477baf")
+		)
+		(fp_line
+			(start 1 -0.625)
+			(end 1 0.625)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "91d18694-7137-48bd-bdbc-ae5ee29125ac")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "063ccd42-954c-43e3-a657-cd9a7770e51d")
 			(effects
@@ -2283,7 +2283,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.95 0)
+			(at -0.95 0 270)
 			(size 1 1.45)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -2292,7 +2292,7 @@
 			(uuid "56f2b945-b5c6-4902-a716-4570537b2254")
 		)
 		(pad "2" smd roundrect
-			(at 0.95 0)
+			(at 0.95 0 270)
 			(size 1 1.45)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -2312,6 +2312,17 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_rect
+		(start 133.75 96.5)
+		(end 166 116.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "3b717611-7ed4-4ad5-8eab-b4c7d7f4e2d6")
 	)
 	(embedded_fonts no)
 )
