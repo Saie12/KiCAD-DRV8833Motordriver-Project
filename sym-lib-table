@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_PWR_FLAG")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Updated Symbols/New_PWR_FLAG.kicad_sym")(options "")(descr ""))
+)
